@@ -1,0 +1,172 @@
+{
+  "kind": "collectionType",
+  "collectionName": "propertis",
+  "info": {
+    "singularName": "properti",
+    "pluralName": "propertis",
+    "displayName": "properti",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "area_infantil": {
+      "type": "boolean"
+    },
+    "aceptan_mascotas": {
+      "type": "boolean"
+    },
+    "aire_acondicionado": {
+      "type": "boolean"
+    },
+    "amueblado": {
+      "type": "boolean"
+    },
+    "area_bbq": {
+      "type": "boolean"
+    },
+    "area_lavado": {
+      "type": "boolean"
+    },
+    "ascensor": {
+      "type": "boolean"
+    },
+    "balcon": {
+      "type": "boolean"
+    },
+    "calentador_gas": {
+      "type": "boolean"
+    },
+    "calentador_electrico": {
+      "type": "boolean"
+    },
+    "cocina": {
+      "type": "boolean"
+    },
+    "cocina_isla": {
+      "type": "boolean"
+    },
+    "comedor": {
+      "type": "boolean"
+    },
+    "control_acceso": {
+      "type": "boolean"
+    },
+    "descripcion": {
+      "type": "text"
+    },
+    "estacionamiento_techado": {
+      "type": "boolean"
+    },
+    "family_room": {
+      "type": "boolean"
+    },
+    "gas_incluido": {
+      "type": "boolean"
+    },
+    "gasebo": {
+      "type": "boolean"
+    },
+    "gestor": {
+      "type": "string"
+    },
+    "gimnacio": {
+      "type": "boolean"
+    },
+    "habitacion_servicio": {
+      "type": "boolean"
+    },
+    "internet_incluido": {
+      "type": "boolean"
+    },
+    "jacuzzi": {
+      "type": "boolean"
+    },
+    "linea_blanca": {
+      "type": "boolean"
+    },
+    "moneda": {
+      "type": "string"
+    },
+    "parqueos": {
+      "type": "string"
+    },
+    "picuzzi": {
+      "type": "boolean"
+    },
+    "piscina": {
+      "type": "boolean"
+    },
+    "planta_electrica": {
+      "type": "boolean"
+    },
+    "ref": {
+      "type": "string"
+    },
+    "sala": {
+      "type": "boolean"
+    },
+    "salon_eventos": {
+      "type": "boolean"
+    },
+    "seguridad_24h": {
+      "type": "boolean"
+    },
+    "shutters": {
+      "type": "boolean"
+    },
+    "superficie": {
+      "type": "string"
+    },
+    "terraza": {
+      "type": "boolean"
+    },
+    "tipo_operacion": {
+      "type": "string"
+    },
+    "tipo_propiedad": {
+      "type": "string"
+    },
+    "titular": {
+      "type": "string"
+    },
+    "ubicacion": {
+      "type": "string"
+    },
+    "ubicacion1n": {
+      "type": "string"
+    },
+    "vista_jardines": {
+      "type": "boolean"
+    },
+    "vista_mar": {
+      "type": "boolean"
+    },
+    "walking_closet": {
+      "type": "boolean"
+    },
+    "banos": {
+      "type": "integer"
+    },
+    "dormitorios": {
+      "type": "integer"
+    },
+    "pvp": {
+      "type": "decimal"
+    },
+    "images": {
+      "type": "json"
+    },
+    "complejo_cerrado": {
+      "type": "boolean"
+    },
+    "cuarto_servicio": {
+      "type": "boolean"
+    },
+    "vista_golf": {
+      "type": "boolean"
+    }
+  }
+}

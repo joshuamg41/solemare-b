@@ -1,0 +1,45 @@
+{
+  "kind": "collectionType",
+  "collectionName": "managers",
+  "info": {
+    "singularName": "manager",
+    "pluralName": "managers",
+    "displayName": "manager",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "cargo": {
+      "type": "string"
+    },
+    "correo": {
+      "type": "email"
+    },
+    "instagram": {
+      "type": "string"
+    },
+    "nombre": {
+      "type": "string"
+    },
+    "zona": {
+      "type": "string"
+    },
+    "managerPhoto": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "telefono": {
+      "type": "string"
+    }
+  }
+}
